@@ -1,8 +1,6 @@
 // JavaScript
 
 const color = document.getElementById('myColor');
-console.log(color.value);
-
 const text = document.getElementById('bodyText');
 
 //背景色を変更する関数
